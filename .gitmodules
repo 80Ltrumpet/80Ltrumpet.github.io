@@ -1,0 +1,3 @@
+[submodule "wordlyzer"]
+	path = wordlyzer
+	url = https://github.com/80Ltrumpet/wordlyzer.git
